@@ -1,0 +1,90 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 10, 2017, 8:31:01 PM
+    Author     : ztjad
+*/
+
+
+/*MAIN*/
+.btn:link{
+    background-color: #ED8325;
+    color:white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin:10px
+}
+
+.btn:visited{
+    background-color: #ED8325;
+    color:white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin:10px
+}
+
+.btn:hover{
+    background-color: #0083A0;
+    color:white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin:10px
+}
+
+.center-btns{
+     margin-left: 260px;
+}
+
+/*TOEVOEGEN*/
+
+form{
+    padding-bottom: 20px;
+}
+
+input.form-control, select.form-control{
+    width: 50%;
+}
+
+.container{
+    padding: 25px;
+}
+
+.btn-submit{
+    background-color: #0083A0 ;
+    color:white;
+    border:none;
+    padding: 9px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin:10px
+}
+
+.btn-submit:hover{
+    background-color:#ED8325;
+    color:white;
+    border:none;
+    padding: 9px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin:10px
+}
+
+/*FILLIALEN,MONTEURS,ROOSTERS*/
+.center{
+    align-item:center;
+}
+
+.table{
+    width: 50%
+}
